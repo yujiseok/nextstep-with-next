@@ -1,3 +1,9 @@
+- [Getting Started](#getting-started)
+  - [Introducing the App Router](#introducing-the-app-router)
+  - [Features Overview](#features-overview)
+  - [Thinking in Server Components](#thinking-in-server-components)
+  - [What I Learned](#what-i-learned)
+
 # Getting Started
 
 ## Introducing the App Router
