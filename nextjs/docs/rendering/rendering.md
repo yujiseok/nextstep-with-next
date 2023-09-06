@@ -16,7 +16,7 @@
 
 웹 애플리케이션이 렌더되는 서버와 클라이언트 두 환경이 있다.
 
-![](https://nextjs.org/_next/image?url%253D%252Fdocs%252Fdark%252Fclient-and-server-environments.png%2526w%253D3840%2526q%253D75%2526dpl%253Ddpl_GGqC9f3YC9X7o2mZgeZfBtLubEXa)
+![](https://nextjs.org/_next/image?url=%2Fdocs%2Fdark%2Fclient-and-server-environments.png&w=3840&q=75&dpl=dpl_GGqC9f3YC9X7o2mZgeZfBtLubEXa)
 
 - 클라이언트란 애플리케이션의 코드의 요청을 서버에 보내는 장치다. 그 후, 서버에서 응답을 유저 인터페이스로 변경한다.
 - 서버는 애플리케이션 코드를 저장하고, 클라이언트의 요청을 받고 적절한 응답을 보내주는 컴퓨터다.
