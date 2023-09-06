@@ -4,7 +4,7 @@
 
 ---
 
-## \***\*[Fundamentals](https://nextjs.org/docs/app/building-your-application/rendering#fundamentals)\*\***
+## [Fundamentals](https://nextjs.org/docs/app/building-your-application/rendering#fundamentals)
 
 시작하기 전에, 기초적인 3가지 웹 컨셉을 아는 것이 도움이 된다.
 
@@ -12,11 +12,11 @@
 - 요청-응답 생명주기, 유저가 앱을 방문하고 상호작용 일을킬 때 발생
 - 네트워크 바운더리, 서버와 클라이언트 코드를 분리하는
 
-### \***\*[Rendering Environments](https://nextjs.org/docs/app/building-your-application/rendering#rendering-environments)\*\***
+### [Rendering Environments](https://nextjs.org/docs/app/building-your-application/rendering#rendering-environments)
 
 웹 애플리케이션이 렌더되는 서버와 클라이언트 두 환경이 있다.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/8587a611-937a-4b21-a548-105bd7bd2b91/783b807a-8590-4d81-a6cc-35d693fc6f6a/Untitled.png)
+![](https://nextjs.org/_next/image?url%253D%252Fdocs%252Fdark%252Fclient-and-server-environments.png%2526w%253D3840%2526q%253D75%2526dpl%253Ddpl_GGqC9f3YC9X7o2mZgeZfBtLubEXa)
 
 - 클라이언트란 애플리케이션의 코드의 요청을 서버에 보내는 장치다. 그 후, 서버에서 응답을 유저 인터페이스로 변경한다.
 - 서버는 애플리케이션 코드를 저장하고, 클라이언트의 요청을 받고 적절한 응답을 보내주는 컴퓨터다.
@@ -27,7 +27,7 @@
 
 이런 차이점을 아는 것은 리액트와 넥스트를 효율적으로 사용하는 키이다.
 
-### \***\*[Request-Response Lifecycle](https://nextjs.org/docs/app/building-your-application/rendering#request-response-lifecycle)\*\***
+### [Request-Response Lifecycle](https://nextjs.org/docs/app/building-your-application/rendering#request-response-lifecycle)
 
 대체로 모든 웹사이트는 동일한 요청-응답 생명주기를 갖는다.
 
@@ -40,7 +40,7 @@
 
 하이브리드 웹 애플리케이션을 만드는데 중요한 부분은 생명주기를 어떻게 나눌 것인가와 네트워크 바운더리를 어디에 둘것인가이다.
 
-### \***\*[Network Boundary](https://nextjs.org/docs/app/building-your-application/rendering#network-boundary)\*\***
+### [Network Boundary](https://nextjs.org/docs/app/building-your-application/rendering#network-boundary)
 
 웹 개발에서, 네트워크 바운더리는 다른 환경을 나누기위한 컨셉이다. 예를 들어, 클라이언트와 서버 혹은 서버와 데이터 스토어.
 
@@ -54,7 +54,7 @@
 
 ---
 
-## \***\*[Building Hybrid Applications](https://nextjs.org/docs/app/building-your-application/rendering#building-hybrid-applications)\*\***
+## [Building Hybrid Applications](https://nextjs.org/docs/app/building-your-application/rendering#building-hybrid-applications)
 
 이런 환경에서 작업할 때, 애플리케이션의 코드를 단방향이라고 생각하는 것이 도움이 된다. 다른 말로, 응답 시, 애플리케이션 코드는 단방향으로 흐른다: 서버에서 클라이언트로.
 
